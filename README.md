@@ -1,6 +1,5 @@
 # 🌐 Blogx Website Project
 
-# 🌐 Blogx Website Project
 
 ## 📸 Screenshots
 
